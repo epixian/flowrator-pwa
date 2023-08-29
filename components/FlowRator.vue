@@ -67,7 +67,7 @@
 
         <button
             ref="startStopButton"
-            :class="stop || !start ? 'bg-lime-500' : 'bg-red-500'"
+            :class="stop || !start ? 'bg-lime-600' : 'bg-red-500'"
             class="w-full h-[120px] text-center text-white text-4xl uppercase"
             type="button"
             @click.prevent="startStop"
