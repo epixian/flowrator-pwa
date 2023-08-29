@@ -46,9 +46,11 @@ export default {
 
     // PWA module configuration: https://go.nuxtjs.dev/pwa
     pwa: {
-        icon: false,
+        icon: {},
         manifest: {
             lang: 'en',
+            name: 'FlowRator',
+            theme_color: '#404040',
         },
     },
 
