@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.epixian.flowrator.twa",
+            "sha256_cert_fingerprints": [
+                "01:52:48:59:0D:9D:8E:91:F7:57:EB:C1:6D:32:8A:94:47:4B:0A:7F:3B:31:76:D9:78:22:84:0A:1C:F1:7C:7F"
+            ]
+        }
+    }
+]
